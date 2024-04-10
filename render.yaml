@@ -1,7 +1,7 @@
 databases:
   - name: friendsapp
     databaseName: friendsapp_development
-    user: Methal
+    user: methal
     plan: free
 
 services:
